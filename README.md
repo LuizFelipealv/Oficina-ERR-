@@ -1,2 +1,3 @@
 # Oficina-ERR-
 O projeto apresenta um Diagrama Entidade-Relacionamento (ERR) para o desenvolvimento de um sistema de controle e gerenciamento de ordens de serviço para uma oficina mecânica.
+Ele permite o registro de clientes e veículos, a criação de ordens de serviço (OS) com informações de data, valor, status e conclusão dos trabalhos. Cada OS é vinculada a uma equipe de mecânicos responsável pela execução dos serviços, incluindo avaliações, cálculos de mão-de-obra com base em tabelas de referência e a utilização de peças. O sistema facilita a organização e execução das atividades, promovendo maior eficiência no gerenciamento dos serviços prestados.
